@@ -24,7 +24,7 @@
 
 ### Solution A (Simple)
 ```bash
-python solutionA.py
+python main.py
 ```
 
 ### Solution B (Modular)
